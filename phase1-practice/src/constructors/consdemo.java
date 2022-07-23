@@ -1,6 +1,6 @@
 package constructors;
 
-default constructor
+//default constructor
 class EmpInfo{
 	int id;
 	String name;
